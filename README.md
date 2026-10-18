@@ -50,7 +50,7 @@ public class LucasLourenco {
 
 ### 📫 Contato
 
-<p> <img src="https://skillicons.dev/icons?i=linkedin,instagram /> </p>
+<p> <img src="https://skillicons.dev/icons?i=instagram,linkedin" /> </p>
 
 
 <p align="center"><i>Obrigado pela visita! ⭐</i></p>
