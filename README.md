@@ -7,6 +7,18 @@
 
 ---
 
+## ☕ System.out.println("Olá, mundo!");
+
+```java
+public class LucasLourenco {
+
+    private final String role = "Backend Developer";
+    private final String university = "Uninassau - Graças";
+    private final String location = "Recife, PE";
+    private final String[] languages = {"Java", "Python", "SQL"};
+}
+```
+
 ### 🚀 Sobre mim
 
 - 🎓 Estudando na **Uninassau – Graças**, em Recife
