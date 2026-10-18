@@ -5,8 +5,11 @@
 </h1>
 
 <p align="center">
-  Estudante de tecnologia na <b>Uninassau – Graças</b> · Recife, PE 🇧🇷<br>
-  Desenvolvedor frontend e backend em formação, construindo projetos com JavaScript, TypeScript, Java e APIs REST.
+  Backend Developer • Computer Science Student @uninassau.recife
+</p>
+
+<p align="center">
+Desenvolvedor frontend e backend em formação, construindo projetos com JavaScript, TypeScript, Java e APIs REST.
 </p>
 
 ---
