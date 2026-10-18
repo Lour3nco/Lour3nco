@@ -1,6 +1,6 @@
 <h1 align="center">
   
-  Olá, eu sou o Lucas Lourenço 👋
+Lucas Lourenço 🤓🖥️
 
 </h1>
 
