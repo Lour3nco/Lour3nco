@@ -1,8 +1,12 @@
-<h1 align="center">Olá, eu sou o Lucas Lourenço 👋</h1>
+<h1 align="center">
+  
+  Olá, eu sou o Lucas Lourenço 👋
+
+</h1>
 
 <p align="center">
   Estudante de tecnologia na <b>Uninassau – Graças</b> · Recife, PE 🇧🇷<br>
-  Desenvolvedor web em formação, construindo projetos com JavaScript, TypeScript e APIs REST.
+  Desenvolvedor frontend e backend em formação, construindo projetos com JavaScript, TypeScript, Java e APIs REST.
 </p>
 
 ---
@@ -22,7 +26,7 @@ public class LucasLourenco {
 ### 🚀 Sobre mim
 
 - 🎓 Estudando na **Uninassau – Graças**, em Recife
-- 💻 Focado em **desenvolvimento web** — do front-end com HTML, CSS e JavaScript ao back-end com APIs REST
+- 💻 Focado em **desenvolvimento backend** —  JavaScript, TypeScript, Java e APIs REST.
 - 🌱 Aprendendo mais sobre **TypeScript** e boas práticas de arquitetura de APIs
 - 🤝 Aberto a colaborar em projetos, estágios e oportunidades na área
 - ⚡ Curiosidade: o "3" no meu usuário é o "E" de Lourenço 😉
@@ -30,7 +34,7 @@ public class LucasLourenco {
 ---
 
 🚀 Tecnologias & Ferramentas
-<p> <img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,git,github,vscode,linux" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,git,github,vscode,linux,kali,react,aws,discord,docker,eclipse,git" /> </p>
 
 ### 📂 Projetos em destaque
 
