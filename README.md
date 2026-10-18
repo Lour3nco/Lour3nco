@@ -59,4 +59,4 @@ public class LucasLourenco {
 </p>
 
 
-<p align="center"><i>Obrigado pela visita! ⭐</i></p>
+<p align="center"><i>☕ Transformando café em código desde 2022 </></i></p>
