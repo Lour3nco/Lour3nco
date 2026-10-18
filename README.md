@@ -52,7 +52,7 @@ public class LucasLourenco {
 
 <p>
   <a href="https://www.instagram.com/lucaas.lourenco" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/lucas-lourenço-a26b71236?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 
