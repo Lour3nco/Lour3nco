@@ -36,17 +36,8 @@ public class LucasLourenco {
 🚀 Tecnologias & Ferramentas
 <p> <img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,git,github,vscode,linux,kali,react,aws,discord,docker,eclipse,git" /> </p>
 
-### 📂 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**AppSUSPLUS**](https://github.com/Lour3nco/AppSUSPLUS) | Aplicação voltada para facilitar o acesso a serviços de saúde | JavaScript |
-| [**atmarlon**](https://github.com/Lour3nco/atmarlon) | Projeto web desenvolvido com TypeScript | TypeScript |
-| [**resumoApiREST2**](https://github.com/Lour3nco/resumoApiREST2) | Resumo e estudos práticos sobre APIs REST | — |
-| [**BioWildSite**](https://github.com/Lour3nco/BioWildSite) | Site sobre biodiversidade e vida selvagem | HTML · CSS |
-| [**coversordemoindas**](https://github.com/Lour3nco/coversordemoindas) | Conversor de moedas | HTML · JavaScript |
-
----
+📂 Projetos recentes
+<table> <tr> <td width="50%" valign="top"> <h3>🏋️ <a href="https://github.com/Lour3nco/gymia">GymIA</a></h3> <p>Aplicação de treinos com inteligência artificial, desenvolvida em Python.</p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/out%202026-1a1b27?style=flat-square&logo=clockify&logoColor=white" /> </td> <td width="50%" valign="top"> <h3>🚗 <a href="https://github.com/Lour3nco/sistema_de_estacionamento">Sistema de Estacionamento</a></h3> <p>Sistema de gerenciamento de estacionamento: entrada, saída e controle de vagas.</p> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/mai%202026-1a1b27?style=flat-square&logo=clockify&logoColor=white" /> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🖥️ <a href="https://github.com/Lour3nco/Servidor">Servidor</a></h3> <p>Scripts em Shell para configuração e automação de servidor Linux.</p> <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/nov%202025-1a1b27?style=flat-square&logo=clockify&logoColor=white" /> </td> <td width="50%" valign="top"> <h3>⚡ <a href="https://github.com/Lour3nco/Pok-dex-PokeAPI">Pokédex</a></h3> <p>Pokédex web que consome a PokeAPI para buscar e exibir informações dos Pokémon.</p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/jun%202025-1a1b27?style=flat-square&logo=clockify&logoColor=white" /> </td> </tr> </table> <p align="center"> <a href="https://github.com/Lour3nco?tab=repositories"> <img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-1a1b27?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
 ### 📊 Estatísticas
 
