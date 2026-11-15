@@ -88,7 +88,7 @@ public class LucasLourenco {
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lour3nco/Lour3nco/output/github-contribution-grid-snake-dark.svg" />
+   <img src="https://raw.githubusercontent.com/Lour3nco/Lour3nco/output/github-contribution-grid-snake-dark.svg?v=2" />
 </p>
 
 ---
